@@ -1,0 +1,11 @@
+/*
+
+/*/
+
+!.gitignore
+
+!.gitlab-ci.yml
+!/Assets
+
+!/ProjectSettings
+!README.md
